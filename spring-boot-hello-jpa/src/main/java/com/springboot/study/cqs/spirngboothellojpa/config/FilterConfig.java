@@ -1,6 +1,6 @@
-package com.springboot.study.cqs.first.config;
+package com.springboot.study.cqs.spirngboothellojpa.config;
 
-import com.springboot.study.cqs.first.web.MyFilter;
+import com.springboot.study.cqs.spirngboothellojpa.web.MyFilter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,5 +1,6 @@
-package com.springboot.study.cqs.first.domain;
+package com.springboot.study.cqs.springboothellojpa.domain;
 
+import com.springboot.study.cqs.spirngboothellojpa.domain.MyProperties;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

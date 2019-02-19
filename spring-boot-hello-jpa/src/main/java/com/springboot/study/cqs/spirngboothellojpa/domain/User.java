@@ -1,4 +1,4 @@
-package com.springboot.study.cqs.first.domain;
+package com.springboot.study.cqs.spirngboothellojpa.domain;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;

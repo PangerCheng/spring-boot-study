@@ -1,4 +1,4 @@
-package com.springboot.study.cqs.first.domain;
+package com.springboot.study.cqs.spirngboothellojpa.domain;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
