@@ -1,4 +1,4 @@
-package com.springboot.study.cqs.first.web;
+package com.springboot.study.cqs.spirngboothellojpa.web;
 
 
 import javax.servlet.*;

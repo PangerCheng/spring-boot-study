@@ -1,5 +1,6 @@
-package com.springboot.study.cqs.first.web;
+package com.springboot.study.cqs.springboothellojpa.web;
 
+import com.springboot.study.cqs.spirngboothellojpa.web.HelloWorldController;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;

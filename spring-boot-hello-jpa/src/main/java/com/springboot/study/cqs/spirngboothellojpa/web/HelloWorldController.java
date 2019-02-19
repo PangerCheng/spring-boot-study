@@ -1,6 +1,6 @@
-package com.springboot.study.cqs.first.web;
+package com.springboot.study.cqs.spirngboothellojpa.web;
 
-import com.springboot.study.cqs.first.domain.User;
+import com.springboot.study.cqs.spirngboothellojpa.domain.User;
 import org.springframework.util.StringUtils;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
